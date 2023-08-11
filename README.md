@@ -14,7 +14,10 @@ This repository contains a Flask application that serves as an API for managing 
 ## Setup
 
 1. Clone the repository.
-2. Install the required packages using `pip install -r requirements.txt` (Note: `requirements.txt` to be provided).
+```git clone https://github.com/j-breedlove/cafe_api_flask.git```
+2. Navigate to project directory.
+```cd cafe_api_flask```
+3. Install the required packages using `pipenv install`.
 3. Run the app with `python app.py`.
 
 ## API Endpoints
